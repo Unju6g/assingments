@@ -1,6 +1,6 @@
 public class lab4_Q4 {
     public static void main(String[] args) {
-        String userData = "USERID:abhi | FULLNAME:Abhijit Mophare | ROLE:Admin";
+        String userData = "USERID:gunjan | FULLNAME:gunjanshaha | ROLE:STUDENT";
 
         
         int fullNameStart = userData.indexOf("FULLNAME:") + "FULLNAME:".length();
